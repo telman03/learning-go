@@ -23,6 +23,7 @@ Each folder in the repository corresponds to a specific concept or exercise:
 - `structs_in_go`: Basics of working with structs.
 - `type_assertions_in_go`: Understanding and using type assertions.
 - `type_switches`: Examples of type switches in Go.
+- `formatting_string_review`:Example of formatting strings in Go is by using the standard library's fmt.Sprintf() function.
 
 ## How to Use
 
